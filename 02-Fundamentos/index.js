@@ -1,8 +1,10 @@
-var x = 10.78754;
-var firstName = "Daniel";
-var fullName;
-var lastName = "Custódio";
-var a = false;
+"use strict";
+let x = 10.78754;
+const firstName = "Daniel";
+let fullName;
+const lastName = "Custódio";
+let a = false;
+let phrase = "Isso é um nome";
 x = 85.545475;
 fullName = firstName + " " + lastName;
 console.log(x);
