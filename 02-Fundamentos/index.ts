@@ -6,6 +6,9 @@ const lastName: string = "Custódio"
 
 let a: boolean = false
 
+let phrase = "Isso é um nome"
+
+
 x = 85.545475
 fullName = firstName + " " + lastName
 
